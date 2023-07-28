@@ -34,6 +34,10 @@ Hello there! Welcome to my GitHub repository - portfolio. I'm Antonio Rendon, a 
 ## About This Repository
 In this repository, you'll find my portfolio showcasing various data science and data analysis projects. Each project represents my journey in working with different datasets, applying machine learning algorithms, and visualizing results with Tableau. I'm excited to share my work and demonstrate how I utilize data to make informed decisions and generate actionable recommendations.
 
+You can also check out my Tableau portfolio by clicking [![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/antonio.rendon)
+
+
+
 ## Contact Me
 Feel free to reach out to me if you have any questions, feedback, or potential collaborations. You can contact me via email at antoniorendon@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/antoniorendon).
 
