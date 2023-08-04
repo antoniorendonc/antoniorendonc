@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Hello there! Welcome to my GitHub repository - portfolio. I'm Antonio Rendon, a passionate Data Scientist, Data Analyst, and Tableau Developer. I have a keen interest in exploring data, extracting valuable insights, and creating data-driven solutions to solve real-world problems.
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)()
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)()
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)()
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)()
